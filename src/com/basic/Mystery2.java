@@ -9,8 +9,8 @@ public class Mystery2 {
 	{
 	 System.out.println( count % 2 == 1 ? "****" : "++++++++" );
 	 ++count;
-	 } // end while
-	 } // end main
+	 }
+	 } 
 	 } 
 
 
