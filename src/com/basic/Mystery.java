@@ -14,8 +14,8 @@ public class Mystery {
 		 total += y;
 		 ++x;
 		 } // end while
-
-		 System.out.printf( "Total is %d\n", total );
+ System.out.printf( "Total is %d\n", total );
+		
 		  // end main
 		 
 
